@@ -1,0 +1,13 @@
+# PyTorch 및 딥러닝 코어
+torch
+torchvision
+
+# 비전 모델 및 텐서 조작 유틸리티
+timm
+einops
+
+# 기본 수학 및 배열 연산
+numpy
+
+# (선택) 만약 주석 처리된 GCN 코드를 나중에 쓴다면 필요함
+torch_geometric
